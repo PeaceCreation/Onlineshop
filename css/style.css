@@ -37,15 +37,7 @@ header{
     margin-left:5px;
  
 }
-/* .toggle-menu  .form .fa-bars::before{
-    content: "";
-    position: absolute;
-    top:0;
-    left:0;
-    height: 2px;
-    border-style: solid;
-    border-width:10px;
-    border-color: red blue orange red;
+
 } */
 .toggle-menu .form input{
      text-align: center;
